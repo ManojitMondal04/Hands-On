@@ -1,0 +1,2 @@
+C:\Users\KIIT\Source\Repos\CustomerComm.Tests\obj\Debug\CustomerComm.Tests.csproj.AssemblyReference.cache
+C:\Users\KIIT\Source\Repos\CustomerComm.Tests\obj\Debug\CustomerComm.Tests.csproj.CoreCompileInputs.cache
