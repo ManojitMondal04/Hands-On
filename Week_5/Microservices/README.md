@@ -19,10 +19,12 @@ Aspect	Lab 3 – Role-Based Authorization	Lab 4 – Handle Expired Tokens Gracef
 🔴 Error Insight	Generic 401 for any failure	Adds custom logic for token-expired handling
 
 📦 Summary
-Feature	                       Lab 1	Lab 2	Lab 3	Lab 4
-JWT Token Generation	        ✅	    ✅	    ✅	✅
-Secured Endpoints (Authorize)	❌	    ✅	    ✅	✅
-Role-Based Access	            ❌	    ❌	    ✅	✅
-Expired Token Handling	        ❌	    ❌	    ❌	✅
+
+| Feature                     | Lab 1 | Lab 2 | Lab 3 | Lab 4 |
+|----------------------------|:-----:|:-----:|:-----:|:-----:|
+| JWT Token Generation       |  ✅   |  ✅   |  ✅   |  ✅   |
+| Secured Endpoints (Authorize) |  ❌   |  ✅   |  ✅   |  ✅   |
+| Role-Based Access          |  ❌   |  ❌   |  ✅   |  ✅   |
+| Expired Token Handling     |  ❌   |  ❌   |  ❌   |  ✅   |
 
 ✅ With each lab, we progressively added more real-world authentication features to our microservice — making it more production-ready and secure.
