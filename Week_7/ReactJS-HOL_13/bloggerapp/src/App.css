@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.st2, .v1, .mystyle1 {
+  flex: 1;
+  padding: 20px;
+}
+
+.vline {
+  width: 2px;
+  background-color: green;
+  height: 60%;
+}
